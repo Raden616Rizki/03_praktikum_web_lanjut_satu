@@ -22,10 +22,11 @@
             Pagerwojo –
             Desa Tepas dan masuk Desa Kemirigede. Dari pertigaan masjid desa ambil ke kiri (ada petunjuk arah ke Hutan
             Pinus Gogoniti). Apabila bingung, anda bisa menggunakan peta di bawah ini.</p><br>
+            <iframe
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15801.251789591233!2d112.4019109!3d-8.0695284!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7890ec50b0608f%3A0xacfe3919f859ac4f!2sWisata%20Hutan%20Pinus%20Gogoniti!5e0!3m2!1sid!2sid!4v1678151323989!5m2!1sid!2sid"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
     </main>
-    <iframe
-        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15801.251789591233!2d112.4019109!3d-8.0695284!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7890ec50b0608f%3A0xacfe3919f859ac4f!2sWisata%20Hutan%20Pinus%20Gogoniti!5e0!3m2!1sid!2sid!4v1678151323989!5m2!1sid!2sid"
-        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 </div>
 @endsection
